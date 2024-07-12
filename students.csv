@@ -1,0 +1,9 @@
+ 
+s.no, course, duration, fee
+1, python, 30, 6000
+2, java, 30, 6000
+3, sql, 30, 6000
+
+4, r program, 30, 6000
+5, julia,30, 6000
+6, rust,30, 6000
